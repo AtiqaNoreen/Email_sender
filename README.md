@@ -13,8 +13,8 @@ Simple and useful for learning how Django sends email via SMTP.
 ## Requirements
 - Python 3.8+  
 - Django (tested with 5.x)  
-- (Optional) virtualenv
 
-You can add other libraries if your project needs them.  
+
+
 
 
