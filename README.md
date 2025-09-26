@@ -17,9 +17,4 @@ Simple and useful for learning how Django sends email via SMTP.
 
 You can add other libraries if your project needs them.  
 
-## Installation
 
-1. Clone the repo:
-   ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
